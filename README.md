@@ -8,46 +8,46 @@ This project demonstrates a step-by-step approach to data analysis and visualiza
 ## 1. Histograms
 Histograms were created for all numeric features to visualize their frequency distributions. This helped identify their spread, skewness, and concentration.
 
-![Histograms](images/1.jpeg)
+![Histograms](images/1.png)
 
 ---
 
 ## 2. Boxplots
 Boxplots were plotted for numeric features to detect outliers and understand data variability:
 - **Boxplot 1:** First subset of numeric features.
-  ![Boxplot 1](images/2.jpeg)
+  ![Boxplot 1](images/2.png)
 - **Boxplot 2:** Second subset of numeric features.
-  ![Boxplot 2](images/3.jpeg)
+  ![Boxplot 2](images/3.png)
 - **Boxplot 3:** Third subset of numeric features.
-  ![Boxplot 3](images/4.jpeg)
+  ![Boxplot 3](images/4.png)
 
 ---
 
 ## 3. Pairplot
 A pairplot was generated to visualize scatterplots and distributions between numeric features. This allowed for an exploration of feature relationships and potential clusters.
 
-![Pairplot](images/5.jpeg)
+![Pairplot](images/5.png)
 
 ---
 
 ## 4. Correlation Matrix
 A correlation matrix heatmap was created to evaluate the linear relationships between numeric features. Features with strong positive or negative correlations were identified.
 
-![Correlation Matrix](images/6.jpeg)
+![Correlation Matrix](images/6.png)
 
 ---
 
 ## 5. Survival Rate by Passenger Class
 A bar plot was created to analyze survival rates across different passenger classes. This revealed patterns in survival likelihood based on socioeconomic status.
 
-![Survival Rate by Passenger Class](images/7.jpeg)
+![Survival Rate by Passenger Class](images/7.png)
 
 ---
 
 ## 6. Age vs Fare
 A scatter plot of age vs. fare was created, with survival status indicated by color. This visualization highlighted the relationship between age, ticket fare, and survival probability.
 
-![Age vs Fare](images/8.jpeg)
+![Age vs Fare](images/8.png)
 
 ---
 
@@ -58,4 +58,3 @@ The following Python libraries were used for analysis and visualization:
 - **Seaborn**: For enhanced visualizations like boxplots, pairplots, and heatmaps.
 - **Plotly**: For interactive visualizations like scatter plots.
 
-All visual outputs are stored in the `images/` directory for reference.
