@@ -1,7 +1,7 @@
 
 # AI & ML Internship - Task 2: Data Analysis and Visualization Tasks
 
-This project demonstrates a step-by-step approach to data analysis and visualization using the Titanic dataset (or a similar dataset). The goal was to explore and understand the dataset, identify patterns, and generate insights through various statistical and visualization techniques. Below is a summary of the tasks performed, with visual references included.
+The goal was to explore and understand the dataset, identify patterns, and generate insights through various statistical and visualization techniques. Below is a summary of the tasks performed, with visual references included.
 
 
 ## 1. Histograms
